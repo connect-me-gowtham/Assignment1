@@ -6,6 +6,7 @@
 #o	Subtraction
 #o	Multiplication
 #o	Division
+
 A = int(input("Enter the First Number: "))
 B = int(input("Enter the Second Number: "))
 Addition = (A+B)
